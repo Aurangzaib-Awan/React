@@ -1,3 +1,5 @@
+// its just sample code 
+//sample 1
 import './App.css'
 
 function App() {
@@ -24,3 +26,31 @@ function Text({display}){   {/*We can use this to avoid writing a bunch of html 
 
 export default App
 
+
+//sample 1
+import './App.css';
+
+function App()
+{
+  return(
+    <div>
+      <p>hello word</p>
+      <Text var1={"yo whats up"} var2={"Nothing much"}/>
+    </div>
+    
+
+  );
+}
+
+function Text({var1,var2})
+{
+  return(
+    <div>
+      <p>U entered {var1}</p>
+      <p>I entered {var2}</p>
+      
+    </div>
+  );
+}
+
+export default App 
