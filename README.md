@@ -21,6 +21,9 @@ so in main.jsx is our main file where we import and call our application but our
   -  ### conditioning rendering
     there are two ways its basically if else kinda thing if a true do this else do that
   - {var===1 ? (<></>):(<></>)}
-  - {var===1 && (<></>)}
+  - {var===1 && (<></>)} this is also known as short circuiting
+### .map()
+- it is used in js to iterate through a array and to convert or transoform that array into jsx, like a list of movies [{"johnWick","2000"},{"johnWick2","2001"}] will be display as the grid
+
 
 
