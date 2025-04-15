@@ -24,6 +24,12 @@ so in main.jsx is our main file where we import and call our application but our
   - {var===1 && (<></>)} this is also known as short circuiting
 ### .map()
 - it is used in js to iterate through a array and to convert or transoform that array into jsx, like a list of movies [{"johnWick","2000"},{"johnWick2","2001"}] will be display as the grid
+### useState
+the main concept is this it has a value/variable and a setfunction which updates the value of the current state or updates it ,
+- const[var,setVar]=useState("")
+- here it is used in home page in search bar so when we search some movie it matches and show the relevant result simultaneously.
+- it renders the whole function/component in which it is used however in const[var,setVar]=useState("") react remembers the state of latest value .
+
 
 
 
