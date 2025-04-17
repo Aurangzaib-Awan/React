@@ -29,6 +29,12 @@ the main concept is this it has a value/variable and a setfunction which updates
 - const[var,setVar]=useState("")
 - here it is used in home page in search bar so when we search some movie it matches and show the relevant result simultaneously.
 - it renders the whole function/component in which it is used however in const[var,setVar]=useState("") react remembers the state of latest value .
+### Page Routing 
+- it just the way how to routes between pages in browser if u have multiple pages,
+  1) run npm install react-router-dom
+  2) import BrowserRouter in your main.jsx
+  3) then finally come to the app.jsx and write code for routing in it import Routes,Route ... sample code is in the file name pageRouting.jsx
+ 
 
 
 
