@@ -34,7 +34,9 @@ the main concept is this it has a value/variable and a setfunction which updates
   1) run npm install react-router-dom
   2) import BrowserRouter in your main.jsx
   3) then finally come to the app.jsx and write code for routing in it import Routes,Route ... sample code is in the file name pageRouting.jsx
- 
+
+### NavBar
+Nothing too much talk about it , just made a component and add it to App.jsx as we want to remain constant for every page on our web, if u wanna check code see NavBar.jsx
 
 
 
