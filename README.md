@@ -38,6 +38,9 @@ the main concept is this it has a value/variable and a setfunction which updates
 ### NavBar
 Nothing too much talk about it , just made a component and add it to App.jsx as we want to remain constant for every page on our web, if u wanna check code see NavBar.jsx
 
+### Api
+- fetch to get the data / request the data from the web
+- await its the part of the async function , we can use this inside thr async function
 
 
 
