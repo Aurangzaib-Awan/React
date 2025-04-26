@@ -1,4 +1,4 @@
-# React
+# React through a Movie App
 ## the commands to setup a react env in vs code
 - npm create vite@latest //then u gotta name your project and choose react and javascript
 - cd "your proj-name"
@@ -41,6 +41,8 @@ Nothing too much talk about it , just made a component and add it to App.jsx as 
 ### Api
 - fetch to get the data / request the data from the web
 - await its the part of the async function , we can use this inside thr async function
+
+  " If you wanna watch the actual video lecture through which i learn this heres the link https://youtu.be/G6D9cBaLViA?feature=shared "
 
 
 
